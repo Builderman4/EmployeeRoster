@@ -2,9 +2,6 @@
 //  EmployeeTypeTableViewController.swift
 //  EmployeeRoster
 //
-//  Created by Doan Le Thieu on 4/2/18.
-//
-
 import UIKit
 
 protocol EmployeeTypeDelegate {
